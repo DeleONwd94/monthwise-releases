@@ -22,7 +22,8 @@ Veja quanto falta pagar no mês e quanto dos próximos já está comprometido.</
 | **Moedas** | Euro, real, dólar e libra, com totais separados e transferências entre moedas. |
 | **Casal** | Visão de cada pessoa e dos dois juntos, também nos gráficos. |
 | **Anotação rápida** | Escreva `mercado 12 azul`, confira o que foi entendido e salve. |
-| **Extratos** | Revolut e Banco do Brasil reconhecidos; OFX, CSV e Excel dos demais. Vários arquivos de uma vez. |
+| **Contas fixas** | Aluguel, assinaturas e salário, com total por mês e por ano. |
+| **Extratos** | Revolut, Wise e Banco do Brasil reconhecidos. De outros bancos, informe nome e moeda (OFX, CSV ou Excel, também em zip ou com senha). |
 | **Conferência** | Junta o que você anotou com o extrato, pergunta quando há dúvida e compara o saldo com o do banco. |
 | **Cartões e dívidas** | Faturas, parcelas, consignado, quitação e refinanciamento. |
 | **Relatórios** | Categorias, renda e gastos por mês, parcelas futuras e exportação CSV. |
