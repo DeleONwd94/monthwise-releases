@@ -19,19 +19,20 @@ Veja quanto falta pagar no mês e quanto dos próximos já está comprometido.</
 | | |
 |---|---|
 | **Mês** | Contas pagas e em aberto, receitas, sobra prevista e atrasadas. |
-| **Anotação rápida** | Escreva `mercado 120 3x azul`, confira o que foi entendido e salve. |
-| **Cartões** | Faturas, pagamento parcial, parcelas, estornos e crédito para a fatura seguinte. |
-| **Dívidas** | Cronograma, consignado, quitação antecipada e refinanciamento. |
-| **Pessoas** | Divisão de gastos e acertos, inclusive em cartão de outra pessoa. |
-| **Importação** | OFX, CSV e Excel, com conferência, aviso de repetidos e opção de desfazer. |
-| **Relatórios** | Gastos por categoria, comparação mensal e exportação CSV. |
+| **Moedas** | Euro, real, dólar e libra, com totais separados e transferências entre moedas. |
+| **Casal** | Visão de cada pessoa e dos dois juntos, também nos gráficos. |
+| **Anotação rápida** | Escreva `mercado 12 azul`, confira o que foi entendido e salve. |
+| **Extratos** | Revolut e Banco do Brasil reconhecidos; OFX, CSV e Excel dos demais. Vários arquivos de uma vez. |
+| **Conferência** | Junta o que você anotou com o extrato, pergunta quando há dúvida e compara o saldo com o do banco. |
+| **Cartões e dívidas** | Faturas, parcelas, consignado, quitação e refinanciamento. |
+| **Relatórios** | Categorias, renda e gastos por mês, parcelas futuras e exportação CSV. |
 | **Backup** | Cópia diária e restauração com prévia. |
 
-![Conferência de uma fatura antes de importar](docs/conferir.png)
+![Conferência de um extrato: o que já foi anotado, o que é novo e o que precisa de decisão](docs/conferir.png)
 
-![Tela do mês no tema escuro](docs/mes-escuro.png)
+![Relatório do casal, com a parte de cada pessoa](docs/relatorios.png)
 
-<sub>As imagens usam dados fictícios.</sub>
+<sub>As imagens usam dados fictícios. No modo casal, o filtro organiza, mas não esconde dados de quem abrir o app no mesmo computador.</sub>
 
 ## Seus dados
 
@@ -46,6 +47,6 @@ Veja quanto falta pagar no mês e quanto dos próximos já está comprometido.</
 2. Execute o instalador. Não é preciso ser administrador.
 3. Abra o **Monthwise** pelo Menu Iniciar.
 
-O instalador não tem assinatura digital, então o Windows pode mostrar um aviso. O app funciona em português e em reais.
+O instalador não tem assinatura digital, então o Windows pode mostrar um aviso. O app está em português.
 
 O Monthwise organiza informações que você fornece e não é consultoria financeira.
