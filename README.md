@@ -23,10 +23,10 @@ Veja quanto falta pagar no mês e quanto dos próximos já está comprometido.</
 | **Casal** | Visão de cada pessoa e dos dois juntos, também nos gráficos. |
 | **Anotação rápida** | Escreva `mercado 12 azul`, confira o que foi entendido e salve. |
 | **Contas fixas** | Aluguel, assinaturas e salário, com total por mês e por ano. |
-| **Extratos** | Revolut, Wise e Banco do Brasil reconhecidos. De outros bancos, informe nome e moeda (OFX, CSV ou Excel, também em zip ou com senha). |
+| **Extratos** | Revolut, Wise, Banco do Brasil e C6 Bank reconhecidos. De outros bancos, informe nome e moeda (OFX, CSV ou Excel, também em zip ou com senha). |
 | **Conferência** | Junta o que você anotou com o extrato, pergunta quando há dúvida e compara o saldo com o do banco. |
 | **Cartões e dívidas** | Faturas, parcelas, consignado, quitação e refinanciamento. |
-| **Relatórios** | Categorias, renda e gastos por mês, parcelas futuras e exportação CSV. |
+| **Relatórios** | Evolução por dia, semana, mês, ano e entre anos, fluxo do dinheiro, categorias, lugares, calendário, ritmo do mês e saldo. |
 | **Backup** | Cópia diária e restauração com prévia. |
 
 ![Conferência de um extrato: o que já foi anotado, o que é novo e o que precisa de decisão](docs/conferir.png)
